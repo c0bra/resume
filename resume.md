@@ -1,38 +1,48 @@
-# David Hamp-Gonsalves
-## Senior Developer & Code Enthusiast
+# Brian Hann
+## Senior Developer
 
-> [davidhampgonsalves.com](http://www.davidhampgonsalves.com)
-> [davidhampgonsalves@gmail.com](mailto:davidhampgonsalves@gmail.com)
-> (902) 817-3574
+> [brianhann.com](http://brianhann.com)
+> [brian.hann@gmail.com](mailto:brian.hann@gmail.com)
+> (913) 205-5068
 
 ------
 
 ### Technical
 
-1. Java
-1. Android / iOS
+1. C#
+1. AngularJS
 1. Javascript / NodeJS
-1. Python
+1. Ionic / Phonegap / Cordova
 1. Git / SVN
-1. Cordova
-<!-- 1. Spring / Wicket -->
-1. Ruby
-<!-- 1. Weblogic / Websphere -->
-<!-- 1. Tomcat / Jetty -->
-<!-- 1. Oracle DB / MSSQL -->
-1. PostgreSQL / MySQL
-1. Backbone.js
+1. MySQL / SQL Server / Postgres / NoSQL dbs
+1. Apache / Nginx / Nagios / Cacti
+
+### Summary
+
+Software and web developer since 1999. Worked in the banking, telecom, and health industries on external-facing web applications, internal
+
+web-based tools, backend data processing and ETL, and systems administration.
+
+Focus on solving problems in new and elegant ways with software, from the back-end of system setup and data management to integration
+
+and front-end user experience.
 
 ------
 
 ### Experience
 
-**NTTData** *Senior Consultant* __2012 to present__
-	Designed Backbone.js based application to replace and improve upon existing legacy system.
-	Introduced BDD style testing using Jasmine/Karma into existing application code.
-	Developed modern solutions and features for large Enterprise Java systems.
-	Collaborated with and guided global team members transitioning to client side architecture.
-	**Technical Environment** Backbone.js, Jasmine.js, Coffeescript, SpringSource, Tomcat.
+**Examinetics** *Senior Software Developer* __2007 to present__
+	Created an online health questionnaire system through which participantscould receive OSHA clearance to wear respirator and other breathing apparatuses, with no turn-around time. Technologiesincluded C#, ASP.NET, JavaScript/jQuery,and SQL Server. Generated over $100,000 yearly.
+
+Designed and builtseveral web-based toolsfor internal staffand external providers, including X-Ray processing and doctor interpretation,administration tools for web sites,and toolsfor the development team to tracktime spent on projects. Technologiesincluded C#, ASP MVC, Razor, AngularJS, jQuery,and node.js.
+
+Created an automated dataimportsystem that handled information coming from off-site mobile personnel numbering in the hundreds. Replaced many manual
+
+dataentry processesand streamlined the processfor resolving dataissues, freeing companyresources.
+
+Wasalso system administratorand lead support forallLinuxsystems. Dutiesincluded new system setup, Active Directoryintegration, OS/package patching,and
+
+monitoring with Cactiand Nagios.
 
 **Sumtotal Systems** *Senior Java Developer* __2008 to 2012__
 	Designed and implemented features and improvements for multiple enterprise sized applications.
@@ -64,16 +74,16 @@
 ### Projects
 
 * **Ethical Barcode**
-	[ethicalbarcode.com](http://www.ethicalbarcode.com)
+	<a href=http://www.ethicalbarcode.com class=not-printed>ethicalbarcode.com</a>
 	Cordova based app(iOS & Android) that leverages a huge amalgamation of public data. Driven by over 30 web spiders, 15 webservices and multiple external databases it provides brand ratings from non-profit organisations by scanning product barcodes.
 
 * **Halifax Crime Heatmap**
-	[crimeheatmap.ca](http://www.crimeheatmap.ca)
+	<a href=http://www.crimeheatmap.ca class=not-printed>crimeheatmap.ca</a>
 	HTML5 Animated heatmap visualising crimes in the city of Halifax. Built on a customised version Heatmap.js library which enables smooth animation. Won silver in the [Apps4Halifax](http://apps4halifax.ca/) city category.
 
 * **Foxish**
-	[chrome.google.com](https://chrome.google.com/webstore/detail/jpgagcapnkccceppgljfpoadahaopjdb)
-	Chrome extension that enables Firefox-style live RSS feeds with over fifteen thousand active users a 4/5 star rating. Featured on [Gizmoto](http://gizmodo.com/5609633/10-add+ons-you-have-to-know-about-for-google-chrome) & [LifeHacker](http://lifehacker.com/5603602/foxish-live-rss-adds-live-bookmarks-to-google-chrome).
+	<a href=https://chrome.google.com/webstore/detail/jpgagcapnkccceppgljfpoadahaopjdb class=not-printed>chrome.google.com</a>
+	Chrome extension that enables Firefox-style live RSS feeds with over fifteen thousand active users a 4/5 star rating. Featured on [Gizmodo](http://gizmodo.com/5609633/10-add+ons-you-have-to-know-about-for-google-chrome) & [LifeHacker](http://lifehacker.com/5603602/foxish-live-rss-adds-live-bookmarks-to-google-chrome).
 
 ------
 
