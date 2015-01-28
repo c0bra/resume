@@ -77,16 +77,13 @@ and front-end user experience. -->
 ### Open Source Development and Community Involvement
 
 * **UI-Grid**
-	Core committer to UI-Grid,a popular AngularJS data-grid project. Provides many features similar to Excel and other grid tools. Uses virtualization to allow using hundreds of thousands of rows without a performance hit. Built with Grunt, tested with SauceLabs against a variety of browsers and continuously deployed using TravisCI.
+	Core committer to UI-Grid, a popular AngularJS data-grid project that provides many features similar to Excel.
 
 * **AngularJS**
 	Actively involved in the AngularJS community on irc (#angularjs on freenode),and StackOverflow.
 
 * **angular-responsive-images**
 	Angular module that makes handling responsive images easier.
-
-* **markdown-resume.js**
-	NodeJS utility that converts resumes in Markdown format into HTML and PDFs.
 
 * **smeans.js**
 	NodeJS module that uses the S-Means algorithm to cluster data sets.
